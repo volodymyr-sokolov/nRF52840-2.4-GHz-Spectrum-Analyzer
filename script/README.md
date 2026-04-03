@@ -1,4 +1,4 @@
-# 2.4 GHz Spectrum Analyzer for nRF52840
+# 2.4 GHz Spectrum Analyzer for nRF52840 [Visualization]
 
 Real-time spectrum analyzer for the 2.4 GHz ISM band (2400–2480 MHz).  
 Visualizes RSSI data received from an nRF52840-based device over a serial connection.
