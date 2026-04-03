@@ -3,7 +3,7 @@
 Real-time spectrum analyzer for the 2.4 GHz ISM band (2400–2480 MHz).  
 Visualizes RSSI data received from an nRF52840-based device over a serial connection.
 
-<img src="./photo/no-max.png" alt="Screenshot without the maximum" width="600"/>
+<img src="../photo/no-max.png" alt="Screenshot without the maximum" width="600"/>
 
 **Features:**
 - Bright cyan line — **Current RSSI** (real-time sweep)
