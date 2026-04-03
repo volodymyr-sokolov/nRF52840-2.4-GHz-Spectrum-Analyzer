@@ -14,6 +14,8 @@ It continuously scans channels from 2400 MHz to 2480 MHz and sends RSSI values o
 - Uses native TinyUSB CDC for stable serial communication
 - Compatible with the Python spectrum analyzer (`scan.py`)
 
+<img src="photo/no-max.png" alt="Screenshot without the maximum" width="600"/>
+
 ---
 
 ## Hardware Supported
