@@ -105,7 +105,7 @@ python scan2.py --channels 101 --no-peak-hold
 - Maintains and displays Peak Hold values (highest RSSI seen per frequency) in light blue (if enabled).
 - Updates the plot in real time.
 
-<img src="photo/max.png" alt="Screenshot with the maximum" width="600"/>
+<img src="../photo/max.png" alt="Screenshot with the maximum" width="600"/>
 
 Tip: If the line doesn't appear immediately after launch, try resizing the plot window.
 
