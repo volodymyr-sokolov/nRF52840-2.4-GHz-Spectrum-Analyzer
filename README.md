@@ -2,7 +2,7 @@
 
 This is the firmware for **Adafruit Feather nRF52840** (and other nRF52840 boards) that turns the device into a real-time 2.4 GHz spectrum analyzer.
 
-<img src="photo/nrf52840.png" alt="Screenshot without the maximum" width="400"/>
+<img src="photo/nrf52840.png" alt="nRF52840" width="400"/>
 
 It continuously scans channels from 2400 MHz to 2480 MHz and sends RSSI values over USB Serial to the Python visualization script.
 
